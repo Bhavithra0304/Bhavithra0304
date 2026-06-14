@@ -5,6 +5,11 @@ Passionate about Software Development , Problem Solving , Full Stack Development
 </h3>
 
 ---
+## 👩‍💻 About Me
+
+* 🎓 Computer Science Engineering Student passionate about software development.
+* 💡 Interested in Full Stack Development, Data Structures & Algorithms, and Backend Engineering.
+---
 
 ## 🚀 Tech Stack
 
