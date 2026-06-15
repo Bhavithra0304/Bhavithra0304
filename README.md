@@ -14,7 +14,7 @@ Passionate about Software Development , Problem Solving , Full Stack Development
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,react,nodejs,express,mongodb,mysql,html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,react,nodejs,express,mongodb,mysql,postgresql,html,css,javascript"/>
 </p>
 
 ---
